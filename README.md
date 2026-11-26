@@ -1,6 +1,6 @@
-# Telecom_Customer--Churn--Analysis
+# Telecom-Customer-Churn-Analysis
 SQL, Python and Power BI based customer churn analysis with interactive dashboards, KPIs, churn patterns, and retention insights.
-# Telecom_Customer Churn Analysis
+# Telecom_Customer_ Churn_ Analysis
 
 ## Project Overview
 
