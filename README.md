@@ -31,10 +31,44 @@ The analysis combines SQL-based data analysis with an interactive Power BI dashb
 - Total Customers: 3,333
 - Active Customers: 2,850
 - Churned Customers: 483
-- Churn Rate: 14%
-- Average Day Minutes: 179.78
+- Churn Rate: 14.49%
+- Retention Rate: 85.51%
 - Average Service Calls: 1.56
+## Customer Retention Analysis
 
+The analysis shows that 85.51% of customers are retained, while 14.49% have churned.
+
+The objective of the retention analysis is to understand customer segments associated with higher churn and identify opportunities to improve customer retention.
+
+Key areas analyzed include:
+- International Plan adoption
+- Voice Mail Plan adoption
+- Customer Service Call frequency
+- Account Length
+- Customer usage patterns
+- State-wise churn patterns
+- ## Customer Retention Analysis
+
+The analysis shows that 85.51% of customers are retained, while 14.49% have churned.
+
+The objective of the retention analysis is to understand customer segments associated with higher churn and identify opportunities to improve customer retention.
+
+Key areas analyzed include:
+- International Plan adoption
+- Voice Mail Plan adoption
+- Customer Service Call frequency
+- Account Length
+- Customer usage patterns
+- State-wise churn patterns
+- ## Customer Retention Recommendations
+
+Based on the churn analysis, the following strategies are recommended to improve customer retention:
+
+1. **International Plan:** Review pricing, service quality, and customer experience for international plan users.
+2. **Voice Mail Plan:** Improve awareness and adoption of voice mail services.
+3. **Customer Service:** Prioritize customers with repeated service calls and resolve their concerns promptly.
+4. **State-wise Analysis:** Investigate service-related factors in states with higher churn rates.
+5. **Usage-based Offers:** Recommend suitable plans based on customer calling patterns.
 ## Analysis Performed
 
 ### 1. Customer Churn Overview
