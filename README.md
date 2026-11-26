@@ -1,6 +1,6 @@
-# Customer--Churn--Analysis
+# Telecom_Customer--Churn--Analysis
 SQL, Python and Power BI based customer churn analysis with interactive dashboards, KPIs, churn patterns, and retention insights.
-# Customer Churn Analysis
+# Telecom_Customer Churn Analysis
 
 ## Project Overview
 
@@ -34,19 +34,7 @@ The analysis combines SQL-based data analysis with an interactive Power BI dashb
 - Churn Rate: 14.49%
 - Retention Rate: 85.51%
 - Average Service Calls: 1.56
-## Customer Retention Analysis
 
-The analysis shows that 85.51% of customers are retained, while 14.49% have churned.
-
-The objective of the retention analysis is to understand customer segments associated with higher churn and identify opportunities to improve customer retention.
-
-Key areas analyzed include:
-- International Plan adoption
-- Voice Mail Plan adoption
-- Customer Service Call frequency
-- Account Length
-- Customer usage patterns
-- State-wise churn patterns
 - ## Customer Retention Analysis
 
 The analysis shows that 85.51% of customers are retained, while 14.49% have churned.
